@@ -1,4 +1,4 @@
-#EKS IAM Group Mapper
+# EKS IAM Group Mapper
 
 A utility to synchronize Group associated IAM users with Kubernetes groups.
 
